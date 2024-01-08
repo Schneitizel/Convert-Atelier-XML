@@ -1,0 +1,30 @@
+F:\Documents\VSCprojects\ConvertXML\bin\Debug\net7.0\ConvertXML.exe
+F:\Documents\VSCprojects\ConvertXML\bin\Debug\net7.0\ConvertXML.deps.json
+F:\Documents\VSCprojects\ConvertXML\bin\Debug\net7.0\ConvertXML.runtimeconfig.json
+F:\Documents\VSCprojects\ConvertXML\bin\Debug\net7.0\ConvertXML.dll
+F:\Documents\VSCprojects\ConvertXML\bin\Debug\net7.0\ConvertXML.pdb
+F:\Documents\VSCprojects\ConvertXML\obj\Debug\net7.0\ConvertXML.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\VSCprojects\ConvertXML\obj\Debug\net7.0\ConvertXML.AssemblyInfoInputs.cache
+F:\Documents\VSCprojects\ConvertXML\obj\Debug\net7.0\ConvertXML.AssemblyInfo.cs
+F:\Documents\VSCprojects\ConvertXML\obj\Debug\net7.0\ConvertXML.csproj.CoreCompileInputs.cache
+F:\Documents\VSCprojects\ConvertXML\obj\Debug\net7.0\ConvertXML.dll
+F:\Documents\VSCprojects\ConvertXML\obj\Debug\net7.0\refint\ConvertXML.dll
+F:\Documents\VSCprojects\ConvertXML\obj\Debug\net7.0\ConvertXML.pdb
+F:\Documents\VSCprojects\ConvertXML\obj\Debug\net7.0\ConvertXML.genruntimeconfig.cache
+F:\Documents\VSCprojects\ConvertXML\obj\Debug\net7.0\ref\ConvertXML.dll
+F:\Documents\VSCprojects\ConvertXML\obj\Debug\net7.0\ConvertXML.csproj.AssemblyReference.cache
+F:\Documents\VSCprojects\Convert Atelier XML\bin\Debug\net7.0\ConvertXML.exe
+F:\Documents\VSCprojects\Convert Atelier XML\bin\Debug\net7.0\ConvertXML.deps.json
+F:\Documents\VSCprojects\Convert Atelier XML\bin\Debug\net7.0\ConvertXML.runtimeconfig.json
+F:\Documents\VSCprojects\Convert Atelier XML\bin\Debug\net7.0\ConvertXML.dll
+F:\Documents\VSCprojects\Convert Atelier XML\bin\Debug\net7.0\ConvertXML.pdb
+F:\Documents\VSCprojects\Convert Atelier XML\obj\Debug\net7.0\ConvertXML.csproj.AssemblyReference.cache
+F:\Documents\VSCprojects\Convert Atelier XML\obj\Debug\net7.0\ConvertXML.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\VSCprojects\Convert Atelier XML\obj\Debug\net7.0\ConvertXML.AssemblyInfoInputs.cache
+F:\Documents\VSCprojects\Convert Atelier XML\obj\Debug\net7.0\ConvertXML.AssemblyInfo.cs
+F:\Documents\VSCprojects\Convert Atelier XML\obj\Debug\net7.0\ConvertXML.csproj.CoreCompileInputs.cache
+F:\Documents\VSCprojects\Convert Atelier XML\obj\Debug\net7.0\ConvertXML.dll
+F:\Documents\VSCprojects\Convert Atelier XML\obj\Debug\net7.0\refint\ConvertXML.dll
+F:\Documents\VSCprojects\Convert Atelier XML\obj\Debug\net7.0\ConvertXML.pdb
+F:\Documents\VSCprojects\Convert Atelier XML\obj\Debug\net7.0\ConvertXML.genruntimeconfig.cache
+F:\Documents\VSCprojects\Convert Atelier XML\obj\Debug\net7.0\ref\ConvertXML.dll
